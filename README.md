@@ -19,9 +19,4 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyank57&show_icons=true&locale=en&layout=compact" alt="Priyank" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyank57&show_icons=true&locale=en" alt="Priyank" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyank57&" alt="Priyank" /></p>
-
-[![Priyank's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyank57)](https://github.com/priyank57/github-readme-stats)
