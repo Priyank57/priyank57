@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Priyank</h1>
 <h3 align="center">Experienced Software Engineer | Laravel, Vuejs, MySql, Wordpress Expert</h3>
 
-- 📫 How to reach me **[X](https://x.com/gohilpriyank)** , **[LinkedIn](https://www.linkedin.com/in/gohilpriyank/)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gohilpriyank/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Priyank" height="30" width="40" /></a>
 <a href="https://x.com/gohilpriyank" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="Priyank" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/3559070/priyank" target="blank"><img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="Priyank" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/3559070/priyank" target="blank"><img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="Priyank" height="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
